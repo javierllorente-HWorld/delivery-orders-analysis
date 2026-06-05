@@ -1,0 +1,7 @@
+order_id,user_id,amount,status,city
+1,101,2500,completed,Buenos Aires
+2,102,1800,cancelled,Córdoba
+3,103,3200,completed,Rosario
+4,104,1500,completed,Mendoza
+5,105,0,cancelled,Buenos Aires
+6,106,4500,completed,Córdoba
